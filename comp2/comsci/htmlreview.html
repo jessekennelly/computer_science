@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Jesse's Website</title>
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        <div id="invisibleDiv" hidden="hidden">
+            <h1>Header</h1>
+            <p>paragraph</p>
+        </div> 
+        <button onclick="myFunction()">Click Me</button>
+    </body>
+
+<script>
+    function myFunction() {
+        let iDiv = document.getElementById("invisibleDiv");
+        let hidden = iDiv.getAttribute("hidden");
+
+        if(hidden) {
+            iDiv.removeAttribute("hidden");
+        }
+        else {
+            iDiv.setAttribute("hidden", "hidden")
+        }
+    }
+</script>
+
+</html>
