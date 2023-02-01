@@ -1,0 +1,9 @@
+Jesse Kennelly
+COMP
+WRIT,1122,Rhetoric and Academic Writing,4,P
+COMP,1201,Introduction to Computer Science,2,A-
+MATH,1952,Calculus II,4,B
+COMP,1351,Introduction to Programming I,3,B+
+JAPN, 1101, Elementary Japanese, A
+MATH,1951,Calculus I,4,A
+COMP,2300,Discrete Structures in Computer Science,4,P
